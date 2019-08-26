@@ -6,11 +6,11 @@
 ```markdown
 
 
-**Favorite things about CS193**
+# Favorite things about CS193
 
-- Having a *child actor* for an instructor 	
+- Having a child actor for an instructor 	
 - Choosing E on an A,B,C or D question 
-- Posting _pictures_ of _handwritten_ code on Piazza 
+- Posting pictures of handwritten code on Piazza 
 
 
   ```
